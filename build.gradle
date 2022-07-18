@@ -27,7 +27,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/ktsmy/study-github-packages")
+            url = "https://maven.pkg.github.com/vn-cdr/springboot-shared"
             credentials {
                 username = System.getenv("GITHUB_ACTOR")
                 password = System.getenv("TOKEN")
