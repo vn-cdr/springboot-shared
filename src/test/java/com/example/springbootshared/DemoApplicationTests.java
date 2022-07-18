@@ -1,4 +1,4 @@
-package com.example.springboot-shared;
+package com.example.springbootshared;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

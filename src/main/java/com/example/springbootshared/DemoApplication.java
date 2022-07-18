@@ -1,4 +1,4 @@
-package com.example.springboot-shared
+package com.example.springbootshared;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
